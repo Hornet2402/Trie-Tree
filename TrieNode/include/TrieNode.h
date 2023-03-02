@@ -1,5 +1,5 @@
-#ifndef TRIETREE_TRIENODE_H
-#define TRIETREE_TRIENODE_H
+#ifndef TRIENODE_H
+#define TRIENODE_H
 
 #include <unordered_map>
 #include <iostream>
@@ -15,4 +15,4 @@ namespace TrieTree {
     };
 
 } // TrieTree
-#endif //TRIETREE_TRIENODE_H
+#endif TRIENODE_H

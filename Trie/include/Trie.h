@@ -13,13 +13,10 @@ namespace TrieTree {
         TrieNode *root;
 
         Trie();
-
         void insert(std::string key);
-
         bool search(std::string key);
-
         bool deleteKey(std::string key);
     };
 
 }; // TrieTree
-#endif //TRIETREE_TRIE_H
+#endif TRIETREE_TRIE_H
